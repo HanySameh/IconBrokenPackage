@@ -1,8 +1,8 @@
-# IconBroken 0.0.1
+# IconBroken v0.0.1
 
 ![license](https://img.shields.io/github/license/HanySameh/IconBrokenPackage.svg)
 
-Just another beautiful icons to use
+ beautiful icons to use in your projects
 
 ## Getting started and installing
 
@@ -46,9 +46,7 @@ class IconBrokenExample extends StatelessWidget {
   }
 }
 ```
-<!-- 
+
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more. -->
+convert icon.ttf to icons used in flutter projects
