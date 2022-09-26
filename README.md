@@ -2,23 +2,23 @@
 
 ![license](https://img.shields.io/github/license/HanySameh/IconBrokenPackage.svg)
 
-Just another bunch of beautiful icons to use
+Just another beautiful icons to use
 
-## Getting started
+## Getting started and installing
 
 first add dependance:
-with flutter:
+in terminal:
 > $ flutter pub add icon_broken
 
-This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
+in pubspec.yaml
+add this line in dependencies (pubspec.yaml and pub get) :
 
 ```yaml
 dependencies:
   icon_broken: ^0.0.1
 ```
 
-Alternatively, your editor might support flutter pub get. Check the docs for your editor to learn more.
-Import it
+Import it in your file:
 
 Now in your Dart code, you can use:
 > import 'package:icon_broken/icon_broken.dart';
@@ -29,12 +29,24 @@ Now in your Dart code, you can use:
 const IconData icon = Icon(IconBroken.IconName);
 ```
 
-<!-- ## Example
+## Example
 
 ```dart
+import 'package:flutter/material.dart';
+import 'package:icon_broken/icon_broken.dart';
 
+class IconBrokenExample extends StatelessWidget {
+  const IconBrokenExample({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Center(
+      child: Icon(IconBroken.Heart),
+    );
+  }
+}
 ```
-
+<!-- 
 ## Additional information
 
 TODO: Tell users more about the package: where to find more information, how to
