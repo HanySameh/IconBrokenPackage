@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 
+/// ```
+/// const IconData icon = Icon(IconBroken.IconName)
+/// example
+/// const IconData icon = Icon(IconBroken.User)
+/// ```
 class IconBroken {
   IconBroken._();
 
