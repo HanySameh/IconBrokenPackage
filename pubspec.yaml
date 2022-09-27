@@ -1,6 +1,6 @@
 name: icon_broken
 description: A package that helps you add more icons
-version: 0.0.2
+version: 0.0.3
 homepage: https://pub.dev/packages/icon_broken
 repository: https://github.com/HanySameh/IconBroakenPackage
 
@@ -26,6 +26,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+  uses-material-design: true
   fonts:
     - family: IconBroken
       fonts:
