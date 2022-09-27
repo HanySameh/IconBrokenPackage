@@ -4,6 +4,10 @@
 
  beautiful icons to use in your projects
 
+ ![icon1](https://user-images.githubusercontent.com/78942298/192403853-3d6b9187-67f8-4e4e-be78-691739759667.jpeg)
+
+![icons2](https://user-images.githubusercontent.com/78942298/192403856-fafd8a7c-8517-41a7-91d8-b256c433ae21.jpeg)
+
 ## Getting started and installing
 
 first add dependance:
