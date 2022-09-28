@@ -1,4 +1,4 @@
-# IconBroken v0.0.3
+# IconBroken v1.0.0
 
 ![license](https://img.shields.io/github/license/HanySameh/IconBrokenPackage.svg)
 
@@ -19,7 +19,12 @@ add this line in dependencies (pubspec.yaml and pub get) :
 
 ```yaml
 dependencies:
-  icon_broken: ^0.0.3
+  icon_broken: ^1.0.0
+  # and this in assets (flutter:)
+    fonts:
+    - family: IconBroken
+      fonts:
+        - asset: packages/icon_broken/assets/font/icons.ttf
 ```
 
 Import it in your file:
