@@ -1,5 +1,5 @@
 name: icon_broken
-description: A package that helps you add more icons
+description: A package that helps you add more beautiful icons to your next project in flutter 
 version: 1.0.0
 homepage: https://github.com/HanySameh/IconBroakenPackage
 repository: https://github.com/HanySameh/IconBroakenPackage
@@ -30,7 +30,7 @@ flutter:
   fonts:
     - family: IconBroken
       fonts:
-        - asset: lib/assets/font/icons.ttf
+        - asset: assets/font/icons.ttf
 
 
 

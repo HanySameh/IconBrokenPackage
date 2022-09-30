@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/github/license/HanySameh/IconBrokenPackage.svg)
 
- beautiful icons to use in your projects
+ beautiful icons to use in your next project
 
  ![icon1](https://user-images.githubusercontent.com/78942298/192403853-3d6b9187-67f8-4e4e-be78-691739759667.jpeg)
 
@@ -20,11 +20,6 @@ add this line in dependencies (pubspec.yaml and pub get) :
 ```yaml
 dependencies:
   icon_broken: ^1.0.0
-  # and this in assets (flutter:)
-    fonts:
-    - family: IconBroken
-      fonts:
-        - asset: packages/icon_broken/assets/font/icons.ttf
 ```
 
 Import it in your file:

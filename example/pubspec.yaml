@@ -22,9 +22,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  fonts:
-    - family: IconBroken
-      fonts:
-        - asset: packages/icon_broken/assets/font/icons.ttf
+  # fonts:
+  #   - family: IconBroken
+  #     fonts:
+  #       - asset: packages/icon_broken/assets/font/icons.ttf
 
 

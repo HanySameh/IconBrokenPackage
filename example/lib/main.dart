@@ -52,6 +52,10 @@ class IconBrokenPackage extends StatelessWidget {
                 IconBroken.Arrow___Left_2,
                 size: 40.0,
               ),
+              Icon(
+                IconBroken.AddUser,
+                size: 40.0,
+              ),
             ],
           ),
         ),
