@@ -1,4 +1,4 @@
-# IconBroken v1.0.0
+# IconBroken v1.1.0
 
 ![license](https://img.shields.io/github/license/HanySameh/IconBrokenPackage.svg)
 
@@ -19,7 +19,7 @@ add this line in dependencies (pubspec.yaml and pub get) :
 
 ```yaml
 dependencies:
-  icon_broken: ^1.0.0
+  icon_broken: ^1.1.0
 ```
 
 Import it in your file:
